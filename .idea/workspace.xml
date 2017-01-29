@@ -28,14 +28,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workout.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workout.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/workout.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="140" column="61" lean-forward="false" selection-start-line="140" selection-start-column="61" selection-end-line="140" selection-end-column="61" />
+            <state relative-caret-position="633">
+              <caret line="131" column="143" lean-forward="false" selection-start-line="131" selection-start-column="143" selection-end-line="131" selection-end-column="143" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="81" lean-forward="false" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,11 +56,11 @@
             <state relative-caret-position="198">
               <caret line="130" column="2" lean-forward="false" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
               <folding>
-                <marker date="1485717034000" expanded="true" signature="859:4096" ph="{...}" />
-                <marker date="1485717034000" expanded="true" signature="1873:1884" ph="[...]" />
-                <marker date="1485717034000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
-                <marker date="1485717034000" expanded="true" signature="4147:4387" ph="{...}" />
-                <marker date="1485717034000" expanded="true" signature="4642:4761" ph="{...}" />
+                <marker date="1485717360000" expanded="true" signature="859:4096" ph="{...}" />
+                <marker date="1485717360000" expanded="true" signature="1873:1884" ph="[...]" />
+                <marker date="1485717360000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
+                <marker date="1485717360000" expanded="true" signature="4147:4387" ph="{...}" />
+                <marker date="1485717360000" expanded="true" signature="4642:4761" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/workout.ts" />
         <option value="$PROJECT_DIR$/docs/workout.js" />
         <option value="$PROJECT_DIR$/docs/workout.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -252,12 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485673448087</updated>
-      <workItem from="1485673452655" duration="6986000" />
+      <workItem from="1485673452655" duration="7135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6986000" />
+    <option name="totallyTimeSpent" value="7135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="125" y="23" width="1134" height="725" extended-state="0" />
@@ -338,11 +349,11 @@
         <state relative-caret-position="198">
           <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
           <folding>
-            <marker date="1485717034000" expanded="true" signature="859:4096" ph="{...}" />
-            <marker date="1485717034000" expanded="true" signature="1873:1884" ph="[...]" />
-            <marker date="1485717034000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
-            <marker date="1485717034000" expanded="true" signature="4147:4387" ph="{...}" />
-            <marker date="1485717034000" expanded="true" signature="4642:4761" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="859:4096" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="1873:1884" ph="[...]" />
+            <marker date="1485717360000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
+            <marker date="1485717360000" expanded="true" signature="4147:4387" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="4642:4761" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -352,22 +363,30 @@
         <state relative-caret-position="198">
           <caret line="130" column="2" lean-forward="false" selection-start-line="130" selection-start-column="2" selection-end-line="130" selection-end-column="2" />
           <folding>
-            <marker date="1485717034000" expanded="true" signature="859:4096" ph="{...}" />
-            <marker date="1485717034000" expanded="true" signature="1873:1884" ph="[...]" />
-            <marker date="1485717034000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
-            <marker date="1485717034000" expanded="true" signature="4147:4387" ph="{...}" />
-            <marker date="1485717034000" expanded="true" signature="4642:4761" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="859:4096" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="1873:1884" ph="[...]" />
+            <marker date="1485717360000" expanded="true" signature="1883:1884" ph="{&quot;name&quot;: 'Assisted Chin-UP'...}" />
+            <marker date="1485717360000" expanded="true" signature="4147:4387" ph="{...}" />
+            <marker date="1485717360000" expanded="true" signature="4642:4761" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/workout.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="140" column="61" lean-forward="false" selection-start-line="140" selection-start-column="61" selection-end-line="140" selection-end-column="61" />
+        <state relative-caret-position="633">
+          <caret line="131" column="143" lean-forward="false" selection-start-line="131" selection-start-column="143" selection-end-line="131" selection-end-column="143" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="81" lean-forward="false" selection-start-line="2" selection-start-column="81" selection-end-line="2" selection-end-column="81" />
+          <folding />
         </state>
       </provider>
     </entry>

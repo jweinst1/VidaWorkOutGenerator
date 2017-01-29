@@ -129,7 +129,7 @@ let muscle_exercises = {
 
 let create_exercise_elem = (group_name) => {
         let chosen = rand_pick(muscle_exercises[group_name]);
-        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} and 3 sets of this exercise.</p><p><embed src="${chosen.img}" height="200" width="300"></embed></p>`;
+        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} and 3 sets of this exercise.</p><p><embed src="${chosen.img}" height="400" width="400"></embed></p>`;
 };
 
 document.write("<h1>Vida's Workout Plan</h1>");
