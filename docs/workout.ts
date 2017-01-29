@@ -110,15 +110,15 @@ let muscle_exercises = {
         ],
         "Glutes":[
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/butt-lift-bridge',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/99/Male/m/99_2.jpg',
                 name:'Butt Lift (Bridge)'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/flutter-kicks',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/267/Male/m/267_2.jpg',
                 name:'Flutter Kicks'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/glute-kickback',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/98/Male/m/98_2.jpg',
                 name:'Glute KickBack'
             }
         ],
@@ -129,7 +129,7 @@ let muscle_exercises = {
 
 let create_exercise_elem = (group_name) => {
         let chosen = rand_pick(muscle_exercises[group_name]);
-        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} of this exercise.</p><p><embed src="${chosen.link}" height="200" width="300"></embed></p>`;
+        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} of this exercise.</p><p><embed src="${chosen.img || chosen.link}" height="200" width="300"></embed></p>`;
 };
 
 document.write("<h1>Vida's Workout Plan</h1>");

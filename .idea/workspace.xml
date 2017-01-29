@@ -28,21 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="workout.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/workout.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workout.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workout.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="132" column="2" lean-forward="false" selection-start-line="132" selection-start-column="2" selection-end-line="132" selection-end-column="2" />
+            <state relative-caret-position="168">
+              <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
@@ -50,27 +40,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workout.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/workout.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="workout.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workout.js">
+        <entry file="file://$PROJECT_DIR$/docs/workout.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
               <folding>
-                <marker date="1485682278000" expanded="true" signature="859:3941" ph="{...}" />
-                <marker date="1485682278000" expanded="true" signature="3426:3877" ph="[...]" />
-                <marker date="1485682278000" expanded="true" signature="3734:3871" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
-                <marker date="1485682278000" expanded="true" signature="3992:4222" ph="{...}" />
-                <marker date="1485682278000" expanded="true" signature="4477:4529" ph="{...}" />
+                <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
+                <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
+                <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+                <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
+                <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,6 +76,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/workout.ts" />
         <option value="$PROJECT_DIR$/docs/workout.js" />
+        <option value="$PROJECT_DIR$/docs/workout.ts" />
       </list>
     </option>
   </component>
@@ -138,10 +119,6 @@
               <option name="myItemId" value="VidaWorkOutGenerator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workout.ts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -151,6 +128,14 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="VidaWorkOutGenerator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workout.ts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -181,11 +166,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/VidaWorkOutGenerator/index.html">
       <method />
     </configuration>
-    <configuration default="false" name="workout.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="workout.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="workout.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/docs/workout.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -262,12 +252,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485673448087</updated>
-      <workItem from="1485673452655" duration="5687000" />
+      <workItem from="1485673452655" duration="6297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5687000" />
+    <option name="totallyTimeSpent" value="6297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="23" width="1134" height="725" extended-state="0" />
@@ -349,35 +339,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workout.js">
+    <entry file="file://$PROJECT_DIR$/docs/workout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
           <folding>
-            <marker date="1485682278000" expanded="true" signature="859:3941" ph="{...}" />
-            <marker date="1485682278000" expanded="true" signature="3426:3877" ph="[...]" />
-            <marker date="1485682278000" expanded="true" signature="3734:3871" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
-            <marker date="1485682278000" expanded="true" signature="3992:4222" ph="{...}" />
-            <marker date="1485682278000" expanded="true" signature="4477:4529" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workout.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="132" column="2" lean-forward="false" selection-start-line="132" selection-start-column="2" selection-end-line="132" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
+            <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
+            <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
+            <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+            <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
+            <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/workout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+          <folding>
+            <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
+            <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
+            <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+            <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
+            <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/workout.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
