@@ -31,8 +31,8 @@
       <file leaf-file-name="workout.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/workout.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+            <state relative-caret-position="273">
+              <caret line="80" column="19" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
@@ -44,13 +44,17 @@
         <entry file="file://$PROJECT_DIR$/docs/workout.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+              <caret line="127" column="2" lean-forward="false" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
               <folding>
-                <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
-                <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
-                <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
-                <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
-                <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
+                <marker date="1485716694000" expanded="true" signature="859:4002" ph="{...}" />
+                <marker date="1485716694000" expanded="true" signature="3099:3437" ph="[...]" />
+                <marker date="1485716694000" expanded="true" signature="3277:3431" ph="{&quot;name&quot;: 'Dumbbell Overhead Squat'...}" />
+                <marker date="1485716694000" expanded="true" signature="3453:3938" ph="[...]" />
+                <marker date="1485716694000" expanded="true" signature="3463:3615" ph="{&quot;name&quot;: 'Butt Lift (Bridge)'...}" />
+                <marker date="1485716694000" expanded="true" signature="3625:3774" ph="{&quot;name&quot;: 'Flutter Kicks'...}" />
+                <marker date="1485716694000" expanded="true" signature="3784:3932" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+                <marker date="1485716694000" expanded="true" signature="4053:4299" ph="{...}" />
+                <marker date="1485716694000" expanded="true" signature="4554:4606" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,7 +91,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
+    <option name="x" value="125" />
     <option name="y" value="23" />
     <option name="width" value="1134" />
     <option name="height" value="725" />
@@ -252,15 +256,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485673448087</updated>
-      <workItem from="1485673452655" duration="6297000" />
+      <workItem from="1485673452655" duration="6651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6297000" />
+    <option name="totallyTimeSpent" value="6651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="23" width="1134" height="725" extended-state="0" />
+    <frame x="125" y="23" width="1134" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -284,12 +288,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/workout.js.map" />
-        <option value="$PROJECT_DIR$/workout.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -344,11 +342,15 @@
         <state relative-caret-position="198">
           <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
           <folding>
-            <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
-            <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
-            <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
-            <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
-            <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="859:4002" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="3099:3437" ph="[...]" />
+            <marker date="1485716694000" expanded="true" signature="3277:3431" ph="{&quot;name&quot;: 'Dumbbell Overhead Squat'...}" />
+            <marker date="1485716694000" expanded="true" signature="3453:3938" ph="[...]" />
+            <marker date="1485716694000" expanded="true" signature="3463:3615" ph="{&quot;name&quot;: 'Butt Lift (Bridge)'...}" />
+            <marker date="1485716694000" expanded="true" signature="3625:3774" ph="{&quot;name&quot;: 'Flutter Kicks'...}" />
+            <marker date="1485716694000" expanded="true" signature="3784:3932" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+            <marker date="1485716694000" expanded="true" signature="4053:4299" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="4554:4606" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -356,21 +358,25 @@
     <entry file="file://$PROJECT_DIR$/docs/workout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="125" column="18" lean-forward="false" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
+          <caret line="127" column="2" lean-forward="false" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
           <folding>
-            <marker date="1485716180000" expanded="true" signature="859:3975" ph="{...}" />
-            <marker date="1485716180000" expanded="true" signature="3426:3911" ph="[...]" />
-            <marker date="1485716180000" expanded="true" signature="3757:3905" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
-            <marker date="1485716180000" expanded="true" signature="4026:4272" ph="{...}" />
-            <marker date="1485716180000" expanded="true" signature="4527:4579" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="859:4002" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="3099:3437" ph="[...]" />
+            <marker date="1485716694000" expanded="true" signature="3277:3431" ph="{&quot;name&quot;: 'Dumbbell Overhead Squat'...}" />
+            <marker date="1485716694000" expanded="true" signature="3453:3938" ph="[...]" />
+            <marker date="1485716694000" expanded="true" signature="3463:3615" ph="{&quot;name&quot;: 'Butt Lift (Bridge)'...}" />
+            <marker date="1485716694000" expanded="true" signature="3625:3774" ph="{&quot;name&quot;: 'Flutter Kicks'...}" />
+            <marker date="1485716694000" expanded="true" signature="3784:3932" ph="{&quot;name&quot;: 'Glute KickBack'...}" />
+            <marker date="1485716694000" expanded="true" signature="4053:4299" ph="{...}" />
+            <marker date="1485716694000" expanded="true" signature="4554:4606" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/workout.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+        <state relative-caret-position="273">
+          <caret line="80" column="19" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>

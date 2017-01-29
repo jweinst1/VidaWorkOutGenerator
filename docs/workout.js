@@ -74,19 +74,19 @@ var muscle_exercises = {
     "Neck": [],
     "Biceps": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/alternate-hammer-curl',
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/158/Male/m/158_2.jpg',
             name: 'Alternate Hammer Curl'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/biceps-curl-to-shoulder-press',
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/4101/Male/m/4101_2.jpg',
             name: 'Biceps Curl to Shoulder Press'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/concentration-curls',
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/136/Male/m/136_1.jpg',
             name: 'Concentration Curls'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/cross-body-hammer-curl',
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/236/Male/m/236_2.jpg',
             name: 'Cross Body Hammer Curl'
         }
     ],
@@ -96,12 +96,12 @@ var muscle_exercises = {
     "Calves": [],
     "Quads": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-front-squat',
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/4831/Male/m/4831_2.jpg',
             name: 'Dumbbell Front Squat'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-overhead-squat',
-            name: 'Dumbbell Overhead Squat'
+            img: 'http://www.bodybuilding.com/exercises/exerciseImages/sequences/4461/Male/m/4461_2.jpg',
+            name: 'BodyWeight Lunge'
         }
     ],
     "Glutes": [
