@@ -33,60 +33,60 @@ var muscle_exercises = {
     "Chest": [],
     "Abs": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/ab-roller',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/ab-roller',
             name: 'Ab Roller'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/ab-crunch-machine',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/ab-crunch-machine',
             name: 'Ab Crunch Machine'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/air-bike',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/air-bike',
             name: 'Air Bike'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/alternate-heel-touchers',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/alternate-heel-touchers',
             name: 'Alternate Heel Touchers'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/bottoms-up',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/bottoms-up',
             name: 'Bottoms Up'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-crunch',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-crunch',
             name: 'Bosu Ball Crunch'
-        },
+        }
     ],
     "Lats": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/assisted-chin-up',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/assisted-chin-up',
             name: 'Assisted Chin-UP'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/catch-and-overhead-throw',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/catch-and-overhead-throw',
             name: 'Catch and Overhead Throw'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/close-grip-front-late-pulldown',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/close-grip-front-late-pulldown',
             name: 'Close-Grip Front Lat PullDown'
         }
     ],
     "Neck": [],
     "Biceps": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/alternate-hammer-curl',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/alternate-hammer-curl',
             name: 'Alternate Hammer Curl'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/biceps-curl-to-shoulder-press',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/biceps-curl-to-shoulder-press',
             name: 'Biceps Curl to Shoulder Press'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/concentration-curls',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/concentration-curls',
             name: 'Concentration Curls'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/cross-body-hammer-curl',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/cross-body-hammer-curl',
             name: 'Cross Body Hammer Curl'
         }
     ],
@@ -96,25 +96,25 @@ var muscle_exercises = {
     "Calves": [],
     "Quads": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-front-squat',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/dumbbell-front-squat',
             name: 'Dumbbell Front Squat'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-overhead-squat',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/dumbbell-overhead-squat',
             name: 'Dumbbell Overhead Squat'
         }
     ],
     "Glutes": [
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/butt-lift-bridge',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/butt-lift-bridge',
             name: 'Butt Lift (Bridge)'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/flutter-kicks',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/flutter-kicks',
             name: 'Flutter Kicks'
         },
         {
-            link: 'http://www.bodybuilding.com/exercises/detail/view/name/glute-kickback',
+            link: 'https://www.bodybuilding.com/exercises/detail/view/name/glute-kickback',
             name: 'Glute KickBack'
         }
     ],
