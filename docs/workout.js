@@ -124,7 +124,7 @@ var muscle_exercises = {
 };
 var create_exercise_elem = function (group_name) {
     var chosen = rand_pick(muscle_exercises[group_name]);
-    return "<h3>" + chosen.name + "</h3><p>Do " + reps_pick() + " of this exercise.</p><p><iframe src=\"" + chosen.link + "\" height=\"200\" width=\"300\"></iframe></p>";
+    return "<h3>" + chosen.name + "</h3><p>Do " + reps_pick() + " of this exercise.</p><p><embed src=\"" + chosen.link + "\" height=\"200\" width=\"300\"></embed></p>";
 };
 document.write("<h1>Vida's Workout Plan</h1>");
 document.write("<p>This workout was created on " + new Date().toDateString() + "</p>");
