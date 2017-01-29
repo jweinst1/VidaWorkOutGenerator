@@ -37,41 +37,41 @@ let muscle_exercises = {
         "Chest":[],
         "Abs":[
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/ab-roller',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/110/Male/m/110_2.jpg',
                 name:'Ab Roller'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/ab-crunch-machine',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/225/Male/m/225_2.jpg',
                 name:'Ab Crunch Machine'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/air-bike',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/209/Male/m/209_2.jpg',
                 name:'Air Bike'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/alternate-heel-touchers',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/105/Male/m/105_1.jpg',
                 name:'Alternate Heel Touchers'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/bottoms-up',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/2021/Male/m/2021_2.jpg',
                 name:'Bottoms Up'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/bosu-ball-crunch',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/3981/Male/m/3981_1.jpg',
                 name:'Bosu Ball Crunch'
             },
             ],
         "Lats":[
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/assisted-chin-up',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/4381/Male/m/4381_2.jpg',
                 name:'Assisted Chin-UP'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/catch-and-overhead-throw',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/m/768_2.jpg',
                 name:'Catch and Overhead Throw'
             },
             {
-                link:'http://www.bodybuilding.com/exercises/detail/view/name/close-grip-front-late-pulldown',
+                img:'http://www.bodybuilding.com/exercises/exerciseImages/sequences/14/Male/m/14_1.jpg',
                 name:'Close-Grip Front Lat PullDown'
             }
         ],
@@ -129,7 +129,7 @@ let muscle_exercises = {
 
 let create_exercise_elem = (group_name) => {
         let chosen = rand_pick(muscle_exercises[group_name]);
-        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} of this exercise.</p><p><embed src="${chosen.img || chosen.link}" height="200" width="300"></embed></p>`;
+        return `<h3>${chosen.name}</h3><p>Do ${reps_pick()} and 3 sets of this exercise.</p><p><embed src="${chosen.img}" height="200" width="300"></embed></p>`;
 };
 
 document.write("<h1>Vida's Workout Plan</h1>");
