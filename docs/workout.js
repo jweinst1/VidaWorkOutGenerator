@@ -131,6 +131,7 @@ document.write("<p>This workout was created on " + new Date().toDateString() + "
 document.write("<h2>Exercise List</h2>");
 var chosen_groups = pick_muscle_groups();
 for (var group in chosen_groups) {
+    document.write("<h5> Works Muscle Group: " + group + "</h5>");
     document.write(create_exercise_elem(group));
 }
 document.write("Written and created by Josh Weinstein");

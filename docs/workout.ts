@@ -138,6 +138,7 @@ document.write("<h2>Exercise List</h2>");
 
 const chosen_groups = pick_muscle_groups();
 for(let group in chosen_groups){
+    document.write(`<h5> Works Muscle Group: ${group}</h5>`);
     document.write(create_exercise_elem(group));
 }
 
